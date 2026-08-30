@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.streamlit/secrets.toml
+data/*.sqlite3
+data/vectors.json
+data/audio/user/*
+data/runtime/
+data/.runtime/
+data/ui/night-bedroom.jpg
+.codex_tmp/
